@@ -1,0 +1,52 @@
+Ver 1.3:
+  new changes:
+    made "file" a single command with "write" "edit" and "read" arguments
+
+  fixed bugs:
+    
+
+  current bugs:
+
+  future plans
+    better file management
+      delete, and rename
+    
+
+Ver 1.2:
+  new changes:
+    New variable system
+    changed "writefile" command
+
+  fixed bugs:
+  none insofar
+
+  current bugs:
+  none insofar
+
+  future plans:
+  none insofar
+
+
+Version 1.1:
+  new changes:
+    Added the changelog command
+    Added the TUVU ascii logo
+
+  current known bugs:
+    "help" command not working
+    read and write file kinda freaky
+
+  plans for the future:
+    make a more dynamic command system
+    ascii art
+    an actual "help" command
+    arguments
+
+Version format:
+  new changes:
+
+  fixed bugs:
+
+  current bugs:
+
+  future plans:
